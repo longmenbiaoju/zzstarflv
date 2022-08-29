@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+	<name>Aiseesoft Blu-ray Player</name>
+	<affiliate_type value="                                           " />
+	<purchase_code version="2.0" value="                                                                                                                                " />
+	<userdef_purchase_url value="                                                                                                                                                                                                                                                                " />
+	<custom_version value="                                " />
+
+	<custom_homepage><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_homepage>
+	<custom_purchase_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_purchase_url>
+	<custom_expurchase_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_expurchase_url>
+	<custom_product_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_product_url>
+	<custom_support_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_support_url>
+	<custom_support_email><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_support_email>
+	<custom_after_install_counting_url enable=" "><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_after_install_counting_url>
+	<custom_after_uninstall_counting_url enable=" "><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_after_uninstall_counting_url>
+	<custom_after_install_force_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_after_install_force_url>
+	<custom_after_install_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_after_install_url>
+	<custom_after_uninstall_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_after_uninstall_url>
+	<custom_after_register_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_after_register_url>
+	<custom_facebook_url><![CDATA[                                                                                                                                                                                                                                                               ]]></custom_facebook_url>
+	<custom_hide_homepage_link>                </custom_hide_homepage_link>
+	<custom_hide_product_link>                </custom_hide_product_link>
+	<custom_hide_support_link>                </custom_hide_support_link>
+	<custom_hide_support_email>                </custom_hide_support_email>
+	<custom_hide_update>                </custom_hide_update>
+	<custom_hide_facebook>                </custom_hide_facebook>
+	<custom_hide_help_local>                </custom_hide_help_local>
+	<custom_hide_help_online>                </custom_hide_help_online>
+	<custom_homepage_showlink_onAboutDlg>                </custom_homepage_showlink_onAboutDlg>
+	<custom_pop_feedback_whenSupportHide>                </custom_pop_feedback_whenSupportHide>
+</set>

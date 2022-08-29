@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Extend>   
+	<Width>511</Width>
+	<Height>271</Height>
+	<Message x="192" y="193" width="300" height="20" color="#d0d3d3" halign="left" valign="center"></Message>
+	<Version x="53" y="193" width="140" height="20" color="#d0d3d3" halign="left" valign="center"></Version>
+	<CopyRight x="53" y="220" width="400" height="20" color="#d0d3d3" halign="left" valign="center"></CopyRight>
+  </Extend>
+</Config>
